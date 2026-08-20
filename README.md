@@ -74,12 +74,6 @@
 
 ---
 
-### 📌 Featured Project
-
-**[Motors Bay](https://github.com/malikmujeeb777)** — Final Year Project: a comprehensive automotive platform with AI-powered recommendations, 3D vehicle visualization, VIN-based verification, and real-time chat across 12 functional modules.
-`React` `Next.js` `Node.js` `Express` `Python` `Flutter` `MySQL` `MongoDB` `Firebase` `PyTorch`
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=malikmujeeb777&style=flat-square&color=blue" alt="profile views"/>
