@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
@@ -48,6 +49,8 @@
 <p>
   <img src="https://img.shields.io/badge/Manual%20Testing-4B5563?style=flat-square&logo=testinglibrary&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </p>
 
@@ -64,15 +67,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=malikmujeeb777&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikmujeeb777&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-sigma-black.vercel.app/api?username=malikmujeeb777&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="165" src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=malikmujeeb777&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malikmujeeb777&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=malikmujeeb777&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
+
 
 
 <p align="center">
