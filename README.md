@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Hi, I'm Mujeeb Munsab
 
-<!--
-**malikmujeeb777/malikmujeeb777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | QA / SQA | Web Development | AI/ML
 
-Here are some ideas to get you started:
+Short introduction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+   Languages
+   Frontend
+   Backend
+   Testing
+   Databases
+   Tools
+
+🚀 Featured Projects
+   Motors Bay
+   Swiston Watches Testing
+   E-Commerce Testing
+   etc.
+
+🧪 Software Quality & Testing
+   Manual Testing
+   Automation Testing
+   API Testing
+   Test Case Design
+   Bug Reporting
+
+📚 Currently Learning
+   AI/ML
+   etc.
+
+📊 GitHub Stats
+
+🤝 Connect With Me
+   LinkedIn | Email | Portfolio
