@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Malik (Mujeeb) 👋</h1>
+<h1 align="center">Hi there, I'm Mujeeb Munsab 👋</h1>
 
-<h3 align="center">MERN Stack Developer | QA Enthusiast | Project Management</h3>
+<h3 align="center">Software Engineer | MERN Stack Developer | SQA (Manual + Automation)   </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=MongoDB+%7C+Express+%7C+React+%7C+Node.js;Manual+%2B+Automation+Testing;Managing+Projects+with+Jira+%26+Trello" alt="Typing SVG" />
