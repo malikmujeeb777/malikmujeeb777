@@ -20,7 +20,6 @@
 - 💻 Experienced in **MERN stack development** — built multiple end-to-end projects using MongoDB, Express, React, and Node.js
 - 🧪 Hands-on with **software testing** — both manual and automation testing
 - 📋 Practiced in **software project management** using Jira and Trello
-- 🎓 Final Year Project: **Motors Bay** — a comprehensive automotive platform with AI-powered recommendations, 3D vehicle visualization, VIN-based verification, real-time chat, and 12 functional modules
 - ⚡ Fun fact: I like turning messy ideas into clean, working products
 
 ---
