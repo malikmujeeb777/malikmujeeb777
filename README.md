@@ -1,162 +1,80 @@
-# 👋 Hi, I'm Mujeeb Munsab
+<h1 align="center">Hi there, I'm Malik (Mujeeb) 👋</h1>
 
-### Software Engineer • SQA & Test Automation • Web Development • AI/ML
-
-> Building reliable software, exploring intelligent systems, and continuously improving my engineering skills.
-
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-I'm a **Software Engineering graduate from COMSATS University Islamabad** with an interest in building reliable software and delivering quality user experiences.
-
-My primary areas of interest include **Software Quality Assurance, Test Automation, Web Development, and AI/ML**.
-
-* 🎓 BS Software Engineering — COMSATS University Islamabad
-* 🧪 Interested in Software Quality Assurance & Automation
-* 🌐 Experience with modern web technologies
-* 🤖 Currently exploring AI/ML
-* 🚀 Always learning, building, and experimenting
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,java,dart,html,css" />
-</p>
-
-### Frontend & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,tailwind" />
-</p>
-
-### Databases & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws" />
-</p>
-
-### Testing & Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=selenium,cypress,postman,docker,git,github,vscode" />
-</p>
-
----
-
-## 🧪 Software Quality & Testing
-
-I have a particular interest in **Software Quality Assurance and Test Automation**.
-
-**Testing Areas**
-
-* 🔍 Manual Testing
-* 📝 Test Case Design & Execution
-* 🐞 Bug Reporting & Tracking
-* 🔄 Regression & Functional Testing
-* 🔌 API Testing
-* 🤖 Web Automation
-* 📊 Test Documentation
-
-**Tools**
-
-`Cypress` `Selenium` `Playwright` `Postman` `Jira` `JUnit`
-
----
-
-## 🚀 Featured Projects
-
-### 🚗 Motors Bay
-
-A modern automotive platform developed as my Final Year Project.
-
-**Highlights:**
-
-* Vehicle marketplace
-* Personalized recommendations
-* Maintenance tracking
-* Community features
-* 3D vehicle visualization
-* Multi-tier architecture
-
-**Tech:** `Flutter` `Dart` `Firebase` `AI/ML`
-
----
-
-### 🧪 E-Commerce Platform Testing
-
-Performed testing activities for e-commerce applications focusing on functionality, usability, and reliability.
-
-**Focus:** `Manual Testing` `Test Cases` `Bug Reporting` `Regression Testing`
-
----
-
-### ⌚ Swiston Watches — Automation Testing
-
-Automated web application testing using Cypress to validate important user flows and application functionality.
-
-**Tech:** `Cypress` `JavaScript`
-
----
-
-## 📚 Currently Learning
-
-```text
-AI / Machine Learning
-        ↓
-Python & Data Processing
-        ↓
-ML Models & Applications
-        ↓
-AI-powered Software Solutions
-```
-
-I'm currently expanding my knowledge in **Artificial Intelligence and Machine Learning** while strengthening my software engineering fundamentals.
-
----
-
-## 📊 GitHub Statistics
+<h3 align="center">Software Engineer | AI & Data Systems | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI-powered+systems;Full+Stack+%7C+AI+%7C+Data+Engineering;Turning+ideas+into+working+products" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+### 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+- 🎓 BS Software Engineering graduate — COMSATS University Islamabad
+- 💼 Software Engineer with hands-on experience across **full stack web development, AI-powered systems, and data engineering**
+- 🔭 Currently building **Motors Bay** — a comprehensive automotive platform with AI-powered recommendations, 3D vehicle visualization, VIN-based verification, and real-time chat
+- 🌱 Sharpening skills in AI productivity tooling and scalable backend systems
+- 💬 Ask me about React, Node.js, Python, or ML-driven product features
+- ⚡ Fun fact: I like turning messy ideas into clean, working products
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+</p>
+
+**Databases & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+</p>
+
+**AI / ML & Tools**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, QA professionals, and people working on interesting software projects.
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=malikmujeeb777&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikmujeeb777&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malikmujeeb777&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 📌 Featured Project
+
+**[Motors Bay](https://github.com/malikmujeeb777)** — Comprehensive automotive platform with AI-powered recommendations, 3D vehicle visualization, VIN-based verification, and real-time chat across 12 functional modules.
+`React` `Next.js` `Node.js` `Express` `Python` `Flutter` `MySQL` `MongoDB` `Firebase` `PyTorch`
 
 ---
 
 <p align="center">
-  <i>⭐ Thanks for visiting my profile!</i>
+  <img src="https://komarev.com/ghpvc/?username=malikmujeeb777&style=flat-square&color=blue" alt="profile views"/>
 </p>
