@@ -64,21 +64,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-black.vercel.app/api?username=malikmujeeb777&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="165" src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=malikmujeeb777&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=malikmujeeb777&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=malikmujeeb777&style=flat-square&color=blue" alt="profile views"/>
-</p>
